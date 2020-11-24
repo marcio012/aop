@@ -1,4 +1,4 @@
-package website.marcioheleno.aop;
+package website.marcioheleno.aop.service;
 
 import lombok.extern.log4j.Log4j2;
 import org.springframework.beans.factory.annotation.Autowired;
